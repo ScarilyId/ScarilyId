@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I'm just an ordinary person who wants to learn cod
   <a href="https://instagram.com/mohfahmimc_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"></a>
   <a href=""><img src="-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="website"></a>
 </p>
-<!-- <a href="https://discord.com/invite/KVanx6pus9">
+<!-- <a href="https://discord.gg/4Hry69qW">
   <img src="https://invidget.switchblade.xyz/KVanx6pus9" alt="Discord Server" />
 </a> -->
 
