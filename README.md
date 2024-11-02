@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm just an ordinary person who wants to learn cod
 ## 📫 Connect with Me
 
 <a href="https://discordapp.com/users/1099980838722088991">
-  <img src="https://discord.c99.nl/widget/theme-3/732699880018935959.png" />
+  <img src="https://discord.c99.nl/widget/theme-3/1099980838722088991" />
 </a>
 <p>
   <a href="https://discordapp.com/users/1099980838722088991"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="discord"></a>
