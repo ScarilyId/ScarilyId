@@ -4,19 +4,8 @@ Welcome to my GitHub profile! I'm just an ordinary person who wants to learn cod
 
 ## 🚀 About Me
 
-- 🌱 Currently learning **coding and software development**
+- 🌱 Currently learning **Minecraft clans**
 - 💬 Ask me about **anything related to my learning journey**
-
-## 🛠️ Technologies & Tools
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Termux](https://img.shields.io/badge/-Termux-black?style=flat-square&logo=termux)
 
 ## 📊 Most Used Languages
 
